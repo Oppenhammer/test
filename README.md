@@ -1,4 +1,4 @@
-#Research Idea Summary
+# Research Idea Summary
 
 This research aims to explore the behaviors of participants in social event betting, particularly during a major election, by analyzing user profiles, emotional fluctuations, and betting patterns, and comparing them with traditional polling methods. Additionally, the study examines the potential of using a Large Language Model (LLM) to simulate and model social event betting.
 
