@@ -22,3 +22,16 @@ This multi-faceted approach provides a comprehensive understanding of the dynami
 - Analyze bettors' comments on Polymarket at various time intervals, alongside their betting behavior on the event.
 - Simulate user behavior based on social media and Polymarket comments using an LLM API.
 - Analyze transactions related to Polygon (for context on event betting).
+
+
+# Project Structure
+## Code Directory
+The main scripts and relevant files are organized under the Code/ directory:
+
+- 'spider.py':The crawler for polymarket comments.
+main.py:
+- 'pre.py': Preprocesses datasets for training.
+
+## Data Directory
+- 'Raw Data': .json
+- 'Preprocessed Data': .json
