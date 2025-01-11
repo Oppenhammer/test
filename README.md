@@ -28,10 +28,10 @@ This multi-faceted approach provides a comprehensive understanding of the dynami
 ## Code Directory
 The main scripts and relevant files are organized under the Code/ directory:
 
-- 'spider.py':The crawler for polymarket comments.
+- `spider.py`:The crawler for polymarket comments.
 main.py:
-- 'pre.py': Preprocesses datasets for training.
+- `pre.py`: Preprocesses datasets for training.
 
 ## Data Directory
-- 'Raw Data': .json
-- 'Preprocessed Data': .json
+- `Raw Data`: .json
+- `Preprocessed Data`: .json
